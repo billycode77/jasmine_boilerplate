@@ -1,3 +1,4 @@
-function adition(numOne,numTwo) {
+
+function addition(numOne,numTwo) {
     return numOne + numTwo;
 }

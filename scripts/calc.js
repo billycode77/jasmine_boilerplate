@@ -1,3 +1,3 @@
-function addition() {
-    return 42;
+function adition(numOne,numTwo) {
+    return numOne + numTwo;
 }
